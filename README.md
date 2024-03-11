@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> Hey there! I'm Narsimha 👋</h2>
 <br/>
-<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=laminarss&label=Profile%20views&color=blueviolet&style=flat" alt="laminarss" /> </p -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laminarss&label=Profile%20views&color=blueviolet&style=flat" alt="laminarss" /> </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
