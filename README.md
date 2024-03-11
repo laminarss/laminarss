@@ -48,9 +48,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laminarss&theme=buefy&layout=compact" />
 </a>
 
-<!--a href="https://github.com/laminarss">
+<a href="https://github.com/laminarss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laminarss&show_icons=true&locale=en" />
-</a-->
+</a>
 
 <a href="https://github.com/laminarss">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=laminarss&" />
